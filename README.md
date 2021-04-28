@@ -18,10 +18,15 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Jake</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-JakeByrne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakebyrnenuim/)](https://www.linkedin.com/in/jakebyrnenuim/)
+
 <h3 align="center">I'm a final year Computer Science student at Maynooth University. I have a QQI level 5 certificate in Software Development from studies prior to my time at Maynooth University. During my studies I have become familiar with many languages and technologies, some of which are outlined below.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekajb97&label=Profile%20views&color=0e75b6&style=flat" alt="ekajb97" /> </p>
-[![Linkedin Badge](https://img.shields.io/badge/-Jake Byrne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakebyrnenuim/)](https://www.linkedin.com/in/jakebyrnenuim/)
+
+
+
 <h4 align="left">Programming Languages</h4>
 <p align="left">
   <table>
