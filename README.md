@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-JakeByrne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakebyrnenuim/)](https://www.linkedin.com/in/jakebyrnenuim/)
 
-<h3 align="center">I'm a final year Computer Science student at Maynooth University. I have a QQI level 5 certificate in Software Development from studies prior to my time at Maynooth University. During my studies I have become familiar with many languages and technologies, some of which are outlined below.</h3>
+<h3 align="center">I'm a final year Computer Science student at Maynooth University graduating in September 2021 with a first class honors in Computer Science and Software Engineering. I have a QQI level 5 certificate in Software Development from studies prior to my time at Maynooth University. During my studies I have become familiar with many languages and technologies, some of which are outlined below.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekajb97&label=Profile%20views&color=0e75b6&style=flat" alt="ekajb97" /> </p>
 
